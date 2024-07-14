@@ -1,6 +1,6 @@
 # React Native Quiz App
 
-This is a simple quiz application built using React Native and Expo. The app presents a series of multiple-choice questions to the user, calculates the user's score based on their answers, and allows the user to view the correct answers after completing the quiz.
+This is a simple quiz application built using React Native and Expo v51. The app presents a series of multiple-choice questions to the user, calculates the user's score based on their answers, and allows the user to view the correct answers after completing the quiz.
 
 ## Features
 
@@ -21,8 +21,8 @@ This is a simple quiz application built using React Native and Expo. The app pre
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/your-username/react-native-quiz-app.git
-    cd react-native-quiz-app
+    git clone https://github.com/nazmurr/quiz-app.git
+    cd quiz-app
     ```
 
 2. **Install dependencies:**
